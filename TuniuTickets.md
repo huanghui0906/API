@@ -10,13 +10,13 @@ url： `http://huoche.tuniu.com/station_1708_2500`
 
 - `primary[departureDate]`：发车日期，`yyyy-MM-dd` 格式，例如：`2017-02-06`
 
-- `primary[departureCityCode]`：出发站码，请参考[途牛站码 json](https://github.com/jokermonn/-Api/blob/master/TuniuStationCode.json)
+- `primary[departureCityCode]`：出发站码，请参考[途牛站码 json](https://github.com/huanghui0906/API/blob/master/TuniuStationCode.json)
 
-- `primary[departureCityName]`：出发站名，请参考[途牛站码 json](https://github.com/jokermonn/-Api/blob/master/TuniuStationCode.json)
+- `primary[departureCityName]`：出发站名，请参考[途牛站码 json](https://github.com/huanghui0906/API/blob/master/TuniuStationCode.json)
 
-- `primary[arrivalCityCode]`：到达站码，请参考[途牛站码 json](https://github.com/jokermonn/-Api/blob/master/TuniuStationCode.json)
+- `primary[arrivalCityCode]`：到达站码，请参考[途牛站码 json](https://github.com/huanghui0906/API/blob/master/TuniuStationCode.json)
 
-- `primary[arrivalCityName]`：到达站名，请参考[途牛站码 json](https://github.com/jokermonn/-Api/blob/master/TuniuStationCode.json)
+- `primary[arrivalCityName]`：到达站名，请参考[途牛站码 json](https://github.com/huanghui0906/API/blob/master/TuniuStationCode.json)
 
 - `start`：起始值，默认 `0`
 

@@ -3,7 +3,7 @@
 - [词典](#dic)
 - [翻译](#translation)
 
-ps：必应词典在本地存有数据库，所以它的联想功能是直接在数据库中查找 —— [戳我下载 Android 数据库文件](https://github.com/jokermonn/-Api/blob/master/mircrosoft_bing_dic.db) 或 [戳我下载 wps 表格](https://github.com/jokermonn/-Api/blob/master/mircrosoft_bing_dic..xlsx)。**本地数据库中包含单词的基础默认翻译**
+ps：必应词典在本地存有数据库，所以它的联想功能是直接在数据库中查找 —— [戳我下载 Android 数据库文件](https://github.com/huanghui0906/API/blob/master/mircrosoft_bing_dic.db) 或 [戳我下载 wps 表格](https://github.com/huanghui0906/API/blob/master/mircrosoft_bing_dic..xlsx)。**本地数据库中包含单词的基础默认翻译**
 
 <h2 id="dic">词典</h2>
 

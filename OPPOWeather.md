@@ -1,4 +1,4 @@
-请求参数中需要使用到城市 id，分为两种：一种是市级城市，[戳我查看 json](https://github.com/jokermonn/-Api/blob/master/Meizu_cities.json)；一种是县级城市，[戳我查看 json](https://github.com/jokermonn/-Api/blob/master/Meizu_city.json)
+请求参数中需要使用到城市 id，分为两种：一种是市级城市，[戳我查看 json](https://github.com/huanghui0906/API/blob/master/Meizu_cities.json)；一种是县级城市，[戳我查看 json](https://github.com/huanghui0906/API/blob/master/Meizu_city.json)
 
 # OPPO 天气 #
 

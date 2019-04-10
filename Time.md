@@ -12,7 +12,7 @@
 因为电影的信息会根据地区的不同而不同，所以在 url 后面需要拼接地区 locationId，获取的方式有两种 ——
 
 - 访问 url：[`https://api-m.mtime.cn/Showtime/HotCitiesByCinema.api`](https://api-m.mtime.cn/Showtime/HotCitiesByCinema.api)
-- 将它写在本地，由于 json 较长，我就将它另存为了一个 md 文件，[戳我进链接](https://github.com/jokermonn/-Api/blob/master/TimeApp-Area-id.json)，访问时请添加 `Host:api-m.mtime.cn` 请求头
+- 将它写在本地，由于 json 较长，我就将它另存为了一个 md 文件，[戳我进链接](https://github.com/huanghui0906/API/blob/master/TimeApp-Area-id.json)，访问时请添加 `Host:api-m.mtime.cn` 请求头
 
 ps：Time 时光 App 是本地存了一份，但同时每次启动 app 又会访问 url，同时将数据重新写入文件
 

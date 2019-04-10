@@ -1,6 +1,6 @@
 # 快递网 #
 
-[戳我查看快递码](https://github.com/jokermonn/-Api/blob/master/ExpressDeliveryCode.json)
+[戳我查看快递码](https://github.com/huanghui0906/API/blob/master/ExpressDeliveryCode.json)
 
 url：`http://www.kuaidi.com/index-ajaxselectcourierinfo- + 运单号 + - + 快递码 + .html`
 

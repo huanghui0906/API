@@ -6,7 +6,7 @@ url：`http://www.kuaidi100.com/query`
 
 | 参数名称        | 参数取值           | 参数类型  |
 | ------------- |:-------------:| -----:|
-| type      | 快递码，请参考[快递100码](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery100Code.json) | String |
+| type      | 快递码，请参考[快递100码](https://github.com/huanghui0906/API/blob/master/ExpressDelivery100Code.json) | String |
 | postid      | 快递单号      |   String |
 | id | 未知，可为空      |    String |
 | valicode | 未知，可为空      |    String |

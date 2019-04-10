@@ -6,7 +6,7 @@ url：https://weatherapi.market.xiaomi.com/wtr-v3/weather/all
 
 - `latitude`：纬度信息。可填固定值`0`
 - `longitude`：经度信息。可填固定值`0`
-- `locationKey`：`weathercn:` + 地区 `city_num`，见[数据库](https://github.com/jokermonn/-Api/blob/master/xiaomi_weather.db)中的 `city_num` 字段，例：`weathercn:101010100` 表北京
+- `locationKey`：`weathercn:` + 地区 `city_num`，见[数据库](https://github.com/huanghui0906/API/blob/master/xiaomi_weather.db)中的 `city_num` 字段，例：`weathercn:101010100` 表北京
 - `sign`：签名值，固定值`zUFJoAR2ZVrDy1vF3D07`
 - `isGlobal`：固定值 `false`
 - `locale`：固定值 `zh_cn`
@@ -435,7 +435,7 @@ json 示例：
 	- `wind`：风信息
 		- `unit`：该值单位
 		- `value`：该值
-	- `weather`：天气状况，[查看天气状况 json](https://github.com/jokermonn/-Api/blob/master/xiaomi_weather_status.json)
+	- `weather`：天气状况，[查看天气状况 json](https://github.com/huanghui0906/API/blob/master/xiaomi_weather_status.json)
 	- `pubTime`：更新时间
 	- `uvIndex`：???
 - `forecastDaily`：今日预测
@@ -452,7 +452,7 @@ json 示例：
 		- `value`：包括今日的五日内温度信息
 			- `from`：最高气温
 			- `to`：最低气温
-	- `weather`：天气状况，[查看天气状况 json](https://github.com/jokermonn/-Api/blob/master/xiaomi_weather_status.json)
+	- `weather`：天气状况，[查看天气状况 json](https://github.com/huanghui0906/API/blob/master/xiaomi_weather_status.json)
 	- `wind`：风信息
 		- `direction`：风向
 		- `speed`：风速
@@ -461,7 +461,7 @@ json 示例：
 - `forecastHourly`：今日小时预警
 	- `aqi`：空气质量指数
 	- `temperature`：温度信息
-	- `weather`：天气状况，[查看天气状况 json](https://github.com/jokermonn/-Api/blob/master/xiaomi_weather_status.json)
+	- `weather`：天气状况，[查看天气状况 json](https://github.com/huanghui0906/API/blob/master/xiaomi_weather_status.json)
 		- `value`：今日二十四小时内的值
 - `indices`：原型
 - `aqi`：空气相关

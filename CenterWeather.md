@@ -8,7 +8,7 @@ url：http://tj.nineton.cn/Heart/index/all
 
 拼接参数：
 
-- `city`：城市码，查看数据库文件中的 `townId`，[戳我查看数据库文件](https://github.com/jokermonn/-Api/blob/master/CenterWeatherCityCode.db)，另外我也转换了一份 json 文件，也是同样可以的，[戳我查看](https://github.com/jokermonn/-Api/blob/master/CenterWeatherCityCode.json)
+- `city`：城市码，查看数据库文件中的 `townId`，[戳我查看数据库文件](https://github.com/huanghui0906/API/blob/master/CenterWeatherCityCode.db)，另外我也转换了一份 json 文件，也是同样可以的，[戳我查看](https://github.com/huanghui0906/API/blob/master/CenterWeatherCityCode.json)
 - `language`：固定值 `zh-chs`
 - `unit`：温度单位固定值 `c`。可不填。也可省略该参数
 - `aqi`：固定值 `city`。可不填。也可省略该参数
@@ -425,7 +425,7 @@ json 示例：
 
 <h2 id="code_details">code 细节</h2>
 
-感谢 [@Zane6w](https://github.com/Zane6w) 整理 [#19](https://github.com/jokermonn/-Api/issues/19)
+感谢 [@Zane6w](https://github.com/Zane6w) 整理 [#19](https://github.com/huanghui0906/API/issues/19)
 
 	/// 晴
     case sunny = 0
